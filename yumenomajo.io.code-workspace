@@ -15,8 +15,10 @@
 		{
 			"name": "objects",
 			"path": ".git/objects"
+		},
 		{
 			"name": "refs",
+			"path": ".git/refs"
 		}
 	],
 	"settings": {}
