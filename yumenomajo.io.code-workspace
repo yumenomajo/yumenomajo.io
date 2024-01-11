@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"name": "yumenomajo.io",
+			"path": "."
+		},
+		{
+			"name": "hooks",
+			"path": ".git/hooks"
+		},
+		{
+			"name": "info",
+			"path": ".git/info"
+		},
+		{
+			"name": "objects",
+			"path": ".git/objects"
+		{
+			"name": "refs",
+		}
+	],
+	"settings": {}
+}
